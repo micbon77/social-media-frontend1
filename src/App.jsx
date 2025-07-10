@@ -34,7 +34,7 @@ import {
 import './App.css'
 
 // Configurazione API
-const API_BASE_URL = 'https://michele1977.pythonanywhere.com/'
+const API_BASE_URL = 'https://michele1977.pythonanywhere.com/api'
 
 // Componente per l'autenticazione
 function AuthPage({ onLogin }) {
